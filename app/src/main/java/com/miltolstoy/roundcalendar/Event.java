@@ -19,7 +19,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 package com.miltolstoy.roundcalendar;
 
 import android.graphics.Color;
-import android.support.v4.graphics.ColorUtils;
+import androidx.core.graphics.ColorUtils;
 import android.util.Log;
 
 import java.text.SimpleDateFormat;
